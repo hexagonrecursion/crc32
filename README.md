@@ -345,8 +345,8 @@ Using the check string this produces the formulaic output of:
 
 | Phase          | Permutations |
 |:---------------|-------------:|
-| Initialization |          2^2 |
-| Calculation    |          2^3 |
+| Initialization |          2^3 |
+| Calculation    |          2^2 |
 
  Thus there are a total of 2^2 * 2^3 = 4 * 8 = 32 permutations.
 
